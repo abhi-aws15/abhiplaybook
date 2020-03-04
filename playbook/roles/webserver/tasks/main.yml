@@ -1,0 +1,2 @@
+- name: install Apache on Centos
+  yum: pkg=httpd state=latest
